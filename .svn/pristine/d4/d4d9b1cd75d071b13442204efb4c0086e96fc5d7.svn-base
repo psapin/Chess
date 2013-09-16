@@ -1,5 +1,0 @@
-GUI Test Procedure
-
-Start a New Game
-	Click File->New Game
-	The game board should reset and a new game should be started (white's turn)
