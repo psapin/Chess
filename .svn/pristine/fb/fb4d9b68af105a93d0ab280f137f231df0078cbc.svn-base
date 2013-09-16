@@ -1,0 +1,27 @@
+\hypertarget{classpieces_1_1_king}{\section{pieces.\-King Class Reference}
+\label{classpieces_1_1_king}\index{pieces.\-King@{pieces.\-King}}
+}
+Inheritance diagram for pieces.\-King\-:\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{classpieces_1_1_king}
+\end{center}
+\end{figure}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classpieces_1_1_king_aa9a279ba17536c092c053c98ff3c82c7}{{\bfseries King} (Color c, int x\-Loc, int y\-Loc)}\label{classpieces_1_1_king_aa9a279ba17536c092c053c98ff3c82c7}
+
+\item 
+\hypertarget{classpieces_1_1_king_a5288c507b0dd3c1eb0423559b6d56cc5}{boolean {\bfseries can\-Move\-To} (\hyperlink{classboard_1_1_square}{Square} square)}\label{classpieces_1_1_king_a5288c507b0dd3c1eb0423559b6d56cc5}
+
+\item 
+\hypertarget{classpieces_1_1_king_a9118974e08705ddb6723bec714c29189}{int\mbox{[}$\,$\mbox{]}\mbox{[}$\,$\mbox{]} {\bfseries get\-Path\-To} (\hyperlink{classboard_1_1_square}{Square} square)}\label{classpieces_1_1_king_a9118974e08705ddb6723bec714c29189}
+
+\end{DoxyCompactItemize}
+\subsection*{Additional Inherited Members}
+
+
+The documentation for this class was generated from the following file\-:\begin{DoxyCompactItemize}
+\item 
+src/pieces/King.\-java\end{DoxyCompactItemize}

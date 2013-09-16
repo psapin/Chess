@@ -1,0 +1,27 @@
+\hypertarget{classpieces_1_1_wazir}{\section{pieces.\-Wazir Class Reference}
+\label{classpieces_1_1_wazir}\index{pieces.\-Wazir@{pieces.\-Wazir}}
+}
+Inheritance diagram for pieces.\-Wazir\-:\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{classpieces_1_1_wazir}
+\end{center}
+\end{figure}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classpieces_1_1_wazir_a69018ccd9e05deef3f28ed5549b0bced}{{\bfseries Wazir} (Color c, int x\-Loc, int y\-Loc)}\label{classpieces_1_1_wazir_a69018ccd9e05deef3f28ed5549b0bced}
+
+\item 
+\hypertarget{classpieces_1_1_wazir_a89e055407799273ecd95f46983573663}{boolean {\bfseries can\-Move\-To} (\hyperlink{classboard_1_1_square}{Square} square)}\label{classpieces_1_1_wazir_a89e055407799273ecd95f46983573663}
+
+\item 
+\hypertarget{classpieces_1_1_wazir_a7591bea4941b3cddbcd5d5f3e94234b8}{int\mbox{[}$\,$\mbox{]}\mbox{[}$\,$\mbox{]} {\bfseries get\-Path\-To} (\hyperlink{classboard_1_1_square}{Square} square)}\label{classpieces_1_1_wazir_a7591bea4941b3cddbcd5d5f3e94234b8}
+
+\end{DoxyCompactItemize}
+\subsection*{Additional Inherited Members}
+
+
+The documentation for this class was generated from the following file\-:\begin{DoxyCompactItemize}
+\item 
+src/pieces/Wazir.\-java\end{DoxyCompactItemize}

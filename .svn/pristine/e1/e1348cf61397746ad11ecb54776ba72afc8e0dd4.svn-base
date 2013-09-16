@@ -1,0 +1,37 @@
+\hypertarget{classgui_1_1_main_frame}{\section{gui.\-Main\-Frame Class Reference}
+\label{classgui_1_1_main_frame}\index{gui.\-Main\-Frame@{gui.\-Main\-Frame}}
+}
+Inheritance diagram for gui.\-Main\-Frame\-:\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{classgui_1_1_main_frame}
+\end{center}
+\end{figure}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hyperlink{classgui_1_1_main_frame_a23501298b3755db8403f03632faa0271}{Main\-Frame} (\hyperlink{classboard_1_1_board}{Board} b, \hyperlink{enumenums_1_1_board_type}{Board\-Type} type)
+\end{DoxyCompactItemize}
+
+
+\subsection{Constructor \& Destructor Documentation}
+\hypertarget{classgui_1_1_main_frame_a23501298b3755db8403f03632faa0271}{\index{gui\-::\-Main\-Frame@{gui\-::\-Main\-Frame}!Main\-Frame@{Main\-Frame}}
+\index{Main\-Frame@{Main\-Frame}!gui::MainFrame@{gui\-::\-Main\-Frame}}
+\subsubsection[{Main\-Frame}]{\setlength{\rightskip}{0pt plus 5cm}gui.\-Main\-Frame.\-Main\-Frame (
+\begin{DoxyParamCaption}
+\item[{{\bf Board}}]{b, }
+\item[{{\bf Board\-Type}}]{type}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [inline]}}}\label{classgui_1_1_main_frame_a23501298b3755db8403f03632faa0271}
+Sets up the frame and adds the menu and main panel 
+\begin{DoxyParams}{Parameters}
+{\em b} & the board to create the gui from \\
+\hline
+{\em type} & the type of board layout to create the game for \\
+\hline
+\end{DoxyParams}
+
+
+The documentation for this class was generated from the following file\-:\begin{DoxyCompactItemize}
+\item 
+src/gui/Main\-Frame.\-java\end{DoxyCompactItemize}

@@ -1,0 +1,8 @@
+GUI Test Procedure
+
+Open it
+	run ChessGame and the gui should come up
+
+Start a New Game
+	Click File->New Game
+	The game board should reset and a new game should be started (white's turn)

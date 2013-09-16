@@ -1,0 +1,30 @@
+\hypertarget{classpieces_1_1_pawn}{\section{pieces.\-Pawn Class Reference}
+\label{classpieces_1_1_pawn}\index{pieces.\-Pawn@{pieces.\-Pawn}}
+}
+Inheritance diagram for pieces.\-Pawn\-:\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{classpieces_1_1_pawn}
+\end{center}
+\end{figure}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classpieces_1_1_pawn_a3b6bf1360b83a9b3e110fbda08aa7ea6}{{\bfseries Pawn} (Color c, int x\-Loc, int y\-Loc)}\label{classpieces_1_1_pawn_a3b6bf1360b83a9b3e110fbda08aa7ea6}
+
+\item 
+\hypertarget{classpieces_1_1_pawn_ac970afade564581d65c232f937d39988}{boolean {\bfseries can\-Move\-To} (\hyperlink{classboard_1_1_square}{Square} square)}\label{classpieces_1_1_pawn_ac970afade564581d65c232f937d39988}
+
+\item 
+\hypertarget{classpieces_1_1_pawn_a5a65d033ba2d39dd634815d5613a50b8}{boolean {\bfseries can\-Move\-First\-Turn\-To} (\hyperlink{classboard_1_1_square}{Square} square)}\label{classpieces_1_1_pawn_a5a65d033ba2d39dd634815d5613a50b8}
+
+\item 
+\hypertarget{classpieces_1_1_pawn_a929000a81247e277fcd03c9f81f4fea2}{int\mbox{[}$\,$\mbox{]}\mbox{[}$\,$\mbox{]} {\bfseries get\-Path\-To} (\hyperlink{classboard_1_1_square}{Square} square)}\label{classpieces_1_1_pawn_a929000a81247e277fcd03c9f81f4fea2}
+
+\end{DoxyCompactItemize}
+\subsection*{Additional Inherited Members}
+
+
+The documentation for this class was generated from the following file\-:\begin{DoxyCompactItemize}
+\item 
+src/pieces/Pawn.\-java\end{DoxyCompactItemize}
